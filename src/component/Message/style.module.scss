@@ -1,0 +1,17 @@
+.root{
+  padding: 6px 24px;
+  border-radius: 24px;
+  max-width: 50%;
+  width: fit-content;
+}
+.post_msg{
+  border: 1px solid blue; 
+  color: #000;
+  font-weight: 500;
+  align-self: flex-start;
+}
+.get_msg{
+  color: #ffffff;
+  background-color: blue;
+  align-self: flex-end;
+}
